@@ -521,7 +521,7 @@ class DoubleArrayTrie(object):
         try:
             key = key
             if len1 <= 0:
-                len1 = len(key)
+                len1 = len(str(key))
 
             nodePos = max(nodePos, 0)
             result = -1

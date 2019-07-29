@@ -23,3 +23,4 @@ class NlpAnalysis(object):
         与创建一个分词对象相比，该方法便于版本升级后，保证使用最合适的分词器
         """
         return ViterbiSegment()
+

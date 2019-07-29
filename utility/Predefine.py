@@ -7,6 +7,7 @@
 
 import  logging
 import os
+import sys
 
 class Predefine:
     #ROOT  = os.getcwd() + "/data"

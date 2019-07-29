@@ -130,7 +130,7 @@ class WordNet(object):
         """
         iterator = iter(self.vertexes[line])
 
-        res = iterator.next()
+        res = iterator.__next__()
 
         return res
 

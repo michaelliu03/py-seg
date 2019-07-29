@@ -4,7 +4,8 @@
 # @Author: Michael.liu
 # @Date:2019/2/12
 # @Desc: NLP Segmentation ToolKit - Hanlp Python Version
-
+import os
+import sys
 
 class Switch(object):
     def __init__(self, value):
