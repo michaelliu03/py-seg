@@ -11,7 +11,7 @@ import sys
 
 class Predefine:
     #ROOT  = os.getcwd() + "/data"
-    ROOT = "d:/liepin_project/py-segmentation" + "/data"
+    ROOT = "/Users/michael/Desktop/nlpproject/py_seg" + "/data"
 
     # 人名nr
     TAG_PEOPLE = "未##人"

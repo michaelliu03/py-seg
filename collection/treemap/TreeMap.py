@@ -9,7 +9,7 @@ from heapq import heappush, heappop, heapify
 from collections import OrderedDict
 from utility.Predefine import Predefine
 
-Dic_root ="D://liepin_project//py-segmentation//data//treemap//"
+Dic_root ="/Users/michael/Desktop/nlpproject/py_seg/data/treemap/"
 
 class ChineseSort(object):
     def __init__(self, py_dict_path, bh_dict_path):
